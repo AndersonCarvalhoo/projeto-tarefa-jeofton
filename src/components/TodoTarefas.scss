@@ -1,0 +1,84 @@
+.container-full {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+
+  justify-content: center;
+  padding: 0px 1rem;
+}
+.main-tarefas {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  border-radius: 32px;
+
+  width: 1024px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+  h1 {
+    text-align: center;
+  }
+  padding: 3rem;
+}
+.form-criar-tarefa {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  margin: 0 auto;
+  gap: 0.5rem;
+
+  .container-input-tarefa {
+    display: flex;
+    flex-direction: column;
+  }
+  .input-form-tarefa {
+    padding: 0.3rem;
+  }
+  .button-criar-tarefa {
+    margin-top: 1rem;
+    background-color: #f3c02a;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 20px;
+    border-radius: 3px;
+    font-weight: 600;
+    max-width: max-content;
+  }
+}
+
+.section-tarefas {
+  max-width: 1024px;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+.container-tarefa {
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 1rem;
+  border-radius: 7px;
+  width: 700px;
+  position: relative;
+  max-height: 180px;
+
+  .nome-tarefa {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  .button-sucesso {
+    background-color: #3cdb4e;
+    border-radius: 8px;
+    border: none;
+    padding: 0.3rem;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    cursor: pointer;
+  }
+}
