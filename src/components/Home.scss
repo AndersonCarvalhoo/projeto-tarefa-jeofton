@@ -1,0 +1,26 @@
+.main-home {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
+  padding: 1rem;
+  height: 90vh;
+
+  .container-home-info-texto {
+    max-width: 550px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .button-criar-tarefas-home {
+      background-color: #f3c02a;
+      width: max-content;
+      padding: 0.7rem;
+      border-radius: 12px;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 600;
+    }
+  }
+}
