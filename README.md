@@ -27,4 +27,8 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 * Prisma
 * MongoDB
 
+### Colaboradores 
+* Anderson Carvalho
+* Keren Kezia
+
 
