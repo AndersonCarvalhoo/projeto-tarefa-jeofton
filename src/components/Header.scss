@@ -1,0 +1,18 @@
+.header-tarefa {
+  padding: 1rem 6rem 1rem 6rem;
+  box-shadow: 0 4px 2px -2px gray;
+  display: flex;
+  justify-content: end;
+  gap: 4rem;
+
+  a {
+    color: black;
+    text-decoration: none;
+
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
