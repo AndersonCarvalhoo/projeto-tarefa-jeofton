@@ -32,5 +32,6 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 * Keren Kezia
 * Jefferson Santana
 * Clarice Monteiro
+* Inaldo Igor
 
 
