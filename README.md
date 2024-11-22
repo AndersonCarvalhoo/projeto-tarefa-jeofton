@@ -20,4 +20,11 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 * Axios
 * react-icons
 * react-router-dom
+#### Backend:
+* Node
+* Typescript
+* Fastify
+* Prisma
+* MongoDB
+
 
