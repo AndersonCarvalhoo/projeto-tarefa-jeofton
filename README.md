@@ -30,5 +30,6 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 ### Colaboradores 
 * Anderson Carvalho
 * Keren Kezia
+* Jefferson Santana
 
 
