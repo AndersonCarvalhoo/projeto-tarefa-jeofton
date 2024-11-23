@@ -33,5 +33,6 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 * Jefferson Santana
 * Clarice Monteiro
 * Inaldo Igor
+* Cleyton Eneias
 
 
