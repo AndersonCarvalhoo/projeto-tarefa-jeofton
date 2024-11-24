@@ -27,6 +27,11 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 * Prisma
 * MongoDB
 
+### Imagens do Projeto
+![image](https://github.com/user-attachments/assets/f811bc15-6ced-4fb0-8317-35486ff5eb2f)
+![image](https://github.com/user-attachments/assets/5f0c006b-31d1-4061-b830-e0d1f09a3567)
+
+
 ### Colaboradores 
 * Anderson Carvalho
 * Keren Kezia
