@@ -30,6 +30,7 @@ export default function TodoTarefas() {
     event.preventDefault();
 
     if (!nomeRef.current?.value || !descricaoRef.current?.value) {
+      alert("Por favor, preencha todos os campos!");
       return;
     }
 
@@ -41,6 +42,7 @@ export default function TodoTarefas() {
     nomeRef.current.value = "";
     descricaoRef.current.value = "";
     setTarefas((allTarefas) => [...allTarefas, response.data]);
+    alert("Tarefa criada!");
   }
 
   async function handleDelete(id: string) {
