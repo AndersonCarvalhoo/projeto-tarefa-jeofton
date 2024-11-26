@@ -17,6 +17,9 @@ Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programa
 ### Código fonte
 Para visualizar o código fonte navegue nas branches frontend e backend. Cada branch possuí seu respectivo código e documentação explicando como utilizar.
 
+![image](https://github.com/user-attachments/assets/b0a6c86f-51b6-4ada-bfa5-236e177554c9)
+
+
 ### Tecnologias utilizadas:
 #### Frontend:
 * React
