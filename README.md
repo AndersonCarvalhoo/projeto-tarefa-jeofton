@@ -13,6 +13,10 @@ Nós desenvolvemos uma aplicação funcional que permite:
 
 ### Como fizemos ?
 Para fazer a aplicação utilizamos tecnologias abordadas nas aulas de "Programação com frameworks WEB" tendo como destaque o Typescript, Node, React e MongoDB.
+
+### Código fonte
+Para visualizar o código fonte navegue nas branches frontend e backend. Cada branch possuí seu respectivo código e documentação explicando como utilizar.
+
 ### Tecnologias utilizadas:
 #### Frontend:
 * React
